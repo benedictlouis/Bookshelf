@@ -13,7 +13,7 @@ Bookshelf is an web application that helps you manage your favorite books. With 
 - **Node.js**: JavaScript runtime for server-side development.
 - **Express.js**: Web framework for Node.js.
 - **PostgreSQL**: Relational database for storing book data.
-- 
+  
 ## Preview
 Here are some screenshots of the Bookshelf application:
 
