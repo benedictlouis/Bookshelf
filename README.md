@@ -1,5 +1,5 @@
 # Bookshelf
-Bookshelf is an web application that helps you manage your favorite books. With Bookshelf you can add, view, update, and delete books from your personal collection. 
+Bookshelf is a web application that helps you manage your favorite books. With Bookshelf you can add, view, update, and delete books from your personal collection. 
 
 ## Tech Stack
 
